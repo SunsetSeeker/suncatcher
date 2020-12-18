@@ -5,7 +5,7 @@ const user = {
     picture: "https://cloudinary.com/asdf"
 }
 
-module.export = {
+module.exports = {
     Query: {
         me: () => user
     }
